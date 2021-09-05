@@ -1,5 +1,5 @@
 # hello-world
-Saying Hello to the World, duh!
+Saying Hello to the World!
 
 I'm SleepyOwl, half awake, half Sleepy,
 but if you've got food, I'll be there in a jiffy.
